@@ -1,5 +1,7 @@
 # ml-antoniopol
 
+Dataset: https://www.kaggle.com/loveall/clicks-conversion-tracking
+
 Predictor de campaña de Facebook Ads. Calculo de Conversiones totales y de CPA mediante Machine Learning.
 
 Tres modelos de Machine Learning:
